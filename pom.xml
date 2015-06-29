@@ -7,22 +7,11 @@
     <groupId>com.ardoq</groupId>
     <artifactId>training</artifactId>
     <version>1.0</version>
-    <repositories>
-        <repository>
-            <id>ardoq.com</id>
-            <url>http://maven.ardoq.com/release/</url>
-        </repository>
-    </repositories>
     <dependencies>
         <dependency>
-            <groupId>com.ardoq.api</groupId>
-            <artifactId>client</artifactId>
-            <version>0.9.4</version>
-        </dependency>
-        <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>18.0</version>
+            <groupId>com.ardoq</groupId>
+            <artifactId>java-api-client</artifactId>
+            <version>0.9.6</version>
         </dependency>
     </dependencies>
 </project>
